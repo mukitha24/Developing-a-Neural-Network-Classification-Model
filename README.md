@@ -89,4 +89,4 @@ def train_model(model, train_loader, criterion, optimizer, epochs):
 <img width="370" height="87" alt="Screenshot 2026-05-11 215008" src="https://github.com/user-attachments/assets/19ffcf5c-e927-4147-8fe1-2de7d9198713" />
 
 ## RESULT
-Include your result here
+A neural network classification model was successfully developed and tested on the given dataset with satisfactory classification performance.
